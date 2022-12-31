@@ -61,9 +61,10 @@ So now it’s a static blog hosted on GitHub pages, and hey look! Actual content
 
 Change the medium and you change the message.
 
-###### You seem cool. I want to chat / network/ pay you to make things.
+###### You seem cool. I want to chat / network / pay you to make things.
 
 I’m currently looking for work! If these values are your values, don’t be afraid to reach out to me!
 
 email: the.solipsis.project@gmail.com
-Matrix: @solipsis-project:matrix.org
+
+matrix: @solipsis-project:matrix.org
