@@ -6,7 +6,7 @@ permalink: /about/
 
 ###### What tech stack are you using for this site / who made this theme?
 
-This site uses [Jekyll](https://jekyllrb.com/) to generate the webpages, and the [Reverie](https://github.com/amitmerchant1990/reverie) Jekyll theme. It's hosted on GitHub pages.
+This site uses [Jekyll](https://jekyllrb.com/) to generate the webpages, and the [Reverie](https://github.com/amitmerchant1990/reverie) Jekyll theme by [amitmerchant1990](https://github.com/amitmerchant1990/). It's hosted on GitHub pages.
 
 ###### Who are you?
 
