@@ -5,12 +5,15 @@
     {% seo title=false %}
     {% include meta.html %}
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style.css" media="(prefers-color-scheme: light)" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/style_dark.css" media="(prefers-color-scheme: dark)" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/dark-mode-toggle/slider.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
     <meta name="theme-color" content="#000000">
     <link rel="icon" type="image/jpg" sizes="32x32" href="{{ site.baseurl }}/images/favicon-32x32.jpg">
+    <script type="module" src="https://unpkg.com/dark-mode-toggle"></script>
     {% include analytics_head.html %}
   </head>
 
@@ -34,6 +37,7 @@
               <a href="{{ site.baseurl }}/archive">Archive</a>
             </nav>
           </header>
+          <dark-mode-toggle class="slider" appearance="toggle"></dark-mode-toggle>
         </div>
       </div>
 
