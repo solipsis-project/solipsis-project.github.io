@@ -11,22 +11,22 @@ Not only are machine learning models a genie that can't be put back in the bottl
 
 [No, we don't have "self-aware AI" yet, far from it](https://www.techdirt.com/2022/06/14/google-ai-fracas-shows-how-the-modern-ad-based-press-tends-to-devalue-the-truth/). But what we do have is truly impressive. Which makes it all the most important that we understand exactly what it is that we *do* have, what it can do, and what it can't.
 
-I'm not going to touch on the issue of "is AI generated art merely plagiarizing elements of the training set," primarily because there's nothing I can meaningfully add to the debate. We know that these models [i]can[/i] reproduce high fidelity copies of popular low-entropy works (just ask ChatGPT to recite The Raven). At the end of the day, people who feel anxious about the future of their careers or feel violated by the use of their art in training data will insist that AI models [i]must[/i] plagiarize, while people who understand how the technology works insist that AI models don’t need to plagiarize to produce the outputs we observe.
+I'm not going to touch on the issue of "is AI generated art merely plagiarizing elements of the training set," primarily because there's nothing I can meaningfully add to the debate. We know that these models *can* reproduce high fidelity copies of popular low-entropy works (just ask ChatGPT to recite The Raven). At the end of the day, people who feel anxious about the future of their careers or feel violated by the use of their art in training data will insist that AI models *must* plagiarize, while people who understand how the technology works insist that AI models don’t need to plagiarize to produce the outputs we observe.
 
 Neither of these groups are going to change each other's minds, and this is all that I’m going to say about them.
 
-What I will say is that in my own experience playing around with ChatGPT, I’ve been blown away by its ability to generate text content that is, as far as I can tell, entirely original. And not just original, but [i]funny[/i].
+What I will say is that in my own experience playing around with ChatGPT, I’ve been blown away by its ability to generate text content that is, as far as I can tell, entirely original. And not just original, but *funny*.
 
 Specifically, I asked ChatGPT to write jokes. I gave it joke setups that I invented on the spot, and asked it to create the punchline, and explain the joke to me. Most of the “jokes” were, to put it bluntly, not funny. Some barely even qualified as wordplay. But there were a couple of gems that got a genuine laugh out of me. My favorites were:
 
-Q: What is Frodo Baggins’ favorite sport?
-A: Ring Toss.
+    Q: What is Frodo Baggins’ favorite sport?
+    A: Ring Toss.
 
-Q: How many birds does it take to change a lightbulb?
-A: None, they just sit in the dark and tweet about it.
+    Q: How many birds does it take to change a lightbulb?
+    A: None, they just sit in the dark and tweet about it.
 
-Q: What is Oedipus’s favorite mixed drink?
-A: A mom-osa.
+    Q: What is Oedipus’s favorite mixed drink?
+    A: A mom-osa.
 
 Again, to the best of my knowledge, these are entirely original jokes. I searched but was unable to find any evidence of these jokes being told online. (If anyone reading this has heard any of these jokes before, or better yet, knows where I can find a written record of any of them, [please let me know.](mailto://the.solipsis.project@gmail.com))
 
@@ -38,8 +38,8 @@ For starters, I edited the jokes to make them land better. The original Ring Tos
 
 I also didn’t show you any of the jokes that *weren’t* funny. And there were a lot of them. More than there were funny ones. I didn’t save them, and I barely remember most of them. Here’s one I do remember, because of how profoundly *unfunny* it was.
 
-Q: Why did Captain Picard go to space?
-A: To boldly go where no one had gone before.
+    Q: Why did Captain Picard go to space?
+    A: To boldly go where no one had gone before.
 
 I mean… I get it. I get the reference. But that’s all it is. A reference. ChatGPT explained the joke as “humorously imagining Picard taking his catch-phrase literally.” But… that’s what he does every episode. There’s no joke here.
 
