@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Decomposition (Or, What do AI art, Unity games, and Toupées all have in common?)"
+categories: [AI]
+excerpt: "What makes someone good at using generative AI? How does the incentives around generative AI influence its perception? (which in turn, influences policy)"
+---
+
+(This is the third in a series of posts exploring the ramifications of generative AI.)
+
+In the wake of Stable Diffusion, a freelance artist friend of mine jokingly told me: “No one will ever need to commission me anymore, so long as they can clearly and unambiguously describe what they want in a prompt… so on second thought, I’m safe.” It was meant as a joke, a way of making fun of clients that didn’t know how to make a meaningful request… but in doing so, my friend described a very real skill that artists have, that non-artists typically lack: the skill of decomposition.
+
+Decomposition is the ability to take an idea and break it down into its constituent parts, with enough specificity that (you or someone else) could follow your instructions and implement your creative vision.
+
+Good decomposition often requires domain specific knowledge: for instance, decomposing a visual work requires an understanding of perspective, posing, color theory, and negative space. A commissioner who doesn’t understand these domains will have trouble implementing their idea themselves, and will also have trouble conveying their idea to someone who can implement it.
+
+When a client isn’t able to decompose their ideas, the artist has to make assumptions. As a result, the final piece can deviate from the commissioner’s mental image of the piece. The artist may offer revisions, which can improve the fidelity of the output at the cost of putting an additional burden on the artist. The revision process helps because the commissioner is able to use the prior revisions as a comparison, identifying the ways that the draft doesn’t match their mental model, and refining their request. This iterative process can compensate for the fact that they lack the vocabulary and domain knowledge to concisely describe their vision: they lack decomposition, and so the process is longer and more burdensome. The artist must invest their own creative effort in order to pick up the slack.
+
+This is remarkably similar to the process of using generative AI. The most common public perception of the process is that a user submits a single prompt, and publishes the results with no refinement. However, often the process is more iterative, with the prompt being refined over multiple generations, and the user exercising editorial control to weed out results that don’t match their creative vision. Many tools allow a previous output to be fed back into a new query, with additional instruction. In that way, the results gradually become shaped by the user’s creative intent. But the highest fidelity of the results, and the amount of effort required to achieve that fidelity, are both dictated by the user’s ability to describe their objective in a way that the AI tooling can generate it. This is, it tests the user’s ability to decompose. The better the user is at articulating the elements of their concept (the better the user is at decomposition), the faster this refinement process can take.
+
+In summary, AI generated content can only capture the user’s intent if the user is able to express that intent. And this is an ability that will always be stronger in more experienced artists.
+
+There is also one crucial difference between this iterative process with an AI versus a human artist: if the user cannot unambiguously describe their intent, there’s little the AI can do to compensate. There’s no human artist to draw from their own expertise to account for the user’s lack of it. 
+
+Overall, this tells us two things about using AI generators to create art:
+
+1. Using an AI generator is "effortless" if and only if the user doesn't have a particular mental image or authorial intent that they're trying to convey.
+
+2. Despite the fact that using an AI image generator does not require one to draw art in the conventional sense, there is still a direct relationship between the user's artistic skill and the amount of labor required to produce a satisfactory work: the more artistically fluent the user, the less labor required.
+
+The first point is important because the public perception has a tendency to cast all AI generated content as the “effortless” variety. This is because of the [Toupée Fallacy](https://en.wiktionary.org/wiki/toupee_fallacy): poor-quality AI generated art more obviously AI generated. It is also, given the ease of creating it, more plentiful than talent and labor driven AI art. It’s reminiscent of the PR disaster that was Unity requiring Personal Tier users (and *only* Personal Tier users) to display the Unity logo in games using the engine, creating an association between the logo and a lack of quality. When low-effort content is most easily associated with your tool, your tool gains a reputation for low-effort content, even if more artistically merited content also exists.
+
+This distinction matters because perception influences how we interact with the challenges posed by generative AI. Most hosting platforms that I’ve seen address it have taken the action of preemptively cutting off the firehouse of low-effort content by banning all content created using AI generated tools. A few adopted a more cautious approach: one site, for instance, required all content that was created (in part or in whole) by AI to be appropriately tagged, and required the publisher to identify the tool used, as well as all prompts given to it.
+
+While the intention of such a policy was to assuage fears about low-effort AI art “displacing” high-effort content, I suspect that it will actually have the exact opposite effect. The posed requirements (disclosing every input to the AI tool) is trivial for anything that was produced by a single, unrefined prompt. But what about pieces that were developed over several laborious generations, where the input to each round is built on a previous output, where the user carefully and delicately composited multiple outputs into a single piece, then continued to use AI tooling to further modify it? How should the totality of these inputs be disclosed? What happens if the creator didn’t keep detailed enough notes? Policies like this, while well-intentioned, effectively create a ban on high-effort works, while letting low-effort works through.
+
+Even as the debate around whether generative AI *can* help produce high-quality original works (and it can), we should be thinking clearly about the impact that community policies will have on both desired activity (high-quality works) and undesired activity (low-effort AI spam), and choosing policies that encourage the former while discouraging the latter.
+
+Of course, everything I just said about generative AI requiring artistic skill in order to create something that conveys artistic intent is assuming that the user actually *has* a specific intent, and that the “low-effort” content is undesired. If instead the user has only a small set of criteria and isn’t necessarily concerned with the actual value of the resulting piece, AI is more than up to the task. The gaps in the prompt will get filled with a perfectly generic simulacrum of the medium… but depending on the requirements, a user may decide this is acceptable. AI art created by unskilled users exists, it’s plentiful, and the fears about it competing with traditional art are real and founded. But understanding the consequences of that and how to handle it is a venture in itself, and one that we’ll save for next time.
