@@ -7,6 +7,8 @@ excerpt: "What makes someone good at using generative AI? How does the incentive
 
 (This is the third in a series of posts exploring the ramifications of generative AI.)
 
+(Note: This article was edited since it was posted. Since the site is backed by a git repo, you can see the entire history of the article [here](https://github.com/solipsis-project/solipsis-project.github.io/blob/master/_posts/2022-12-30-make-kindness.md))
+
 In the wake of Stable Diffusion, a freelance artist friend of mine jokingly told me: “No one will ever need to commission me anymore, so long as they can clearly and unambiguously describe what they want in a prompt… so on second thought, I’m safe.” It was meant as a joke, a way of making fun of clients that didn’t know how to make a meaningful request… but in doing so, my friend described a very real skill that artists have, that non-artists typically lack: the skill of decomposition.
 
 Decomposition is the ability to take an idea and break it down into its constituent parts, with enough specificity that (you or someone else) could follow your instructions and implement your creative vision.
@@ -23,9 +25,9 @@ There is also one crucial difference between this iterative process with an AI v
 
 Overall, this tells us two things about using AI generators to create art:
 
-1. Using an AI generator is "effortless" if and only if the user doesn't have a particular mental image or authorial intent that they're trying to convey.
+1. Using an AI generator is "effortless" only when the user doesn't have a particular mental image or authorial intent that they're trying to convey. Any sufficiently meaningful content produced with generative AI tooling still requires effort and skill from the user (although less effort and skill than would be required with non-AI tooling, perhaps substantially so.)
 
-2. Despite the fact that using an AI image generator does not require one to draw art in the conventional sense, there is still a direct relationship between the user's artistic skill and the amount of labor required to produce a satisfactory work: the more artistically fluent the user, the less labor required.
+2. Despite the fact that using an AI image generator does not require one to draw art in the conventional sense, there is still a direct relationship between the user's artistic skill and the amount of labor required to produce a satisfactory work: the more artistically fluent the user, the less labor required, and the higher quality output.
 
 The first point is important because the public perception has a tendency to cast all AI generated content as the “effortless” variety. This is because of the [Toupée Fallacy](https://en.wiktionary.org/wiki/toupee_fallacy): poor-quality AI generated art is more obviously AI generated. It is also, given the ease of creating it, more plentiful than talent and labor driven AI art. It’s reminiscent of the PR disaster that was Unity requiring Personal Tier users (and *only* Personal Tier users) to display the Unity logo in games using the engine, creating an association between the logo and a lack of quality. When low-effort content is most easily associated with your tool, your tool gains a reputation for low-effort content, even if more artistically merited content also exists.
 
@@ -35,4 +37,7 @@ While the intention of such a policy was to assuage fears about low-effort AI ar
 
 Even as the debate continues around whether generative AI *can* help produce high-quality original works (and it can), we should be thinking clearly about the impact that community policies will have on both desired activity (high-quality works) and undesired activity (low-effort AI spam), and choosing policies that encourage the former while discouraging the latter.
 
-Of course, everything I just said about generative AI requiring artistic skill in order to create something that conveys artistic intent is assuming that the user actually *has* a specific intent, and that the “low-effort” content is undesired. If instead the user has only a small set of criteria and isn’t necessarily concerned with the actual value of the resulting piece, AI is more than up to the task. The gaps in the prompt will get filled with a perfectly generic simulacrum of the medium… but depending on the requirements, a user may decide this is acceptable. AI art created by unskilled users exists, it’s plentiful, and the fears about it competing with traditional art are real and founded. But understanding the consequences of that and how to handle it is a venture in itself, and one that we’ll save for next time.
+If there's a silver lining here, it's that hard work and human skill is valued, even in places where we know with absolute certainty that automation can do it better. Humanity didn't stop caring about professional chess as soon as Deep Blue came out. We didn't stop admiring realistic paintings after the invention of the camera. And we're not going to stop valuing artistry as a skill just because tooling now exists to autmatically and cheaply produce low-value alternatives.
+
+But that doesn't mean that the next ten years won't be incredibly disruptive for professional artists. Everything I just said about requiring artistic skill in order to create something that conveys artistic intent is that “low-effort” content is undesired. If instead the user has only a small set of criteria and isn’t necessarily concerned with the actual value of the resulting piece, AI is more than up to the task. The gaps in the prompt will get filled with a perfectly generic simulacrum of the medium… but depending on the requirements, a user may decide this is acceptable. AI art created by unskilled users exists, it’s plentiful, and the fears about it competing with traditional art are real and founded. But understanding the consequences of that and how to handle it is a venture in itself, and one that we’ll save for next time.
+
