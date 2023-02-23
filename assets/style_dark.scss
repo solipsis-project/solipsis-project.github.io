@@ -720,8 +720,8 @@ Modules - reusable parts of our design
 
 .pagination a {    
   &:hover {
-      background-color: $darkGray;
-      color: #333;
+      background-color: $darkerGray;
+      color: $gray;
   }
 }
 
