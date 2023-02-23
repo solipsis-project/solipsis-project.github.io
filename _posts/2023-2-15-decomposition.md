@@ -2,7 +2,7 @@
 layout: post
 title:  "Decomposition (Or, What do AI art, Unity games, and Toupées all have in common?)"
 categories: [AI]
-excerpt: "What makes someone good at using generative AI? How does the incentives around generative AI influence its perception? (which in turn, influences policy)"
+excerpt: "What makes someone good at using generative AI? How does the incentives around generative AI influence its perception? (which in turn, influences policy) The third in a series of posts exploring the ramifications of generative AI."
 ---
 
 (This is the third in a series of posts exploring the ramifications of generative AI.)
