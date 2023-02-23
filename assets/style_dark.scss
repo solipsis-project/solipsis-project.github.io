@@ -714,13 +714,13 @@ Modules - reusable parts of our design
   border: 1px solid #eee;
   margin-left: -2px;
   margin-right: -2px;
-  background-color: #ffffff;
+  background-color: $black;
   display: inline-block;
 }
 
 .pagination a {    
   &:hover {
-      background-color: #f1f1f1;
+      background-color: $darkGray;
       color: #333;
   }
 }
